@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lexicon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd" version="1.0" alphabet="ipa" xml:lang="sk-SK" xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
+  <lexeme>
+    <grapheme>EIA</grapheme>
+    <alias>eja</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>EBITDA</grapheme>
+    <alias>ebida</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>EPH</grapheme>
+    <alias>épéhá</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Eustream</grapheme>
+    <alias>eustrím</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Coca-Cola</grapheme>
+    <alias>kokakola</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Coca-Colou</grapheme>
+    <alias>kokakolou</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>OpenAI</grapheme>
+    <alias>open ej áj</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>AI</grapheme>
+    <alias>ej áj</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Dubline</grapheme>
+    <alias>dabline</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>toasty</grapheme>
+    <alias>tousty</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>ratingová</grapheme>
+    <alias>rejtyngová</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>bagatelizovať</grapheme>
+    <alias>bagatelyzovať</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>bagatelizuje</grapheme>
+    <alias>bagatelyzuje</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>nebagatelizovať</grapheme>
+    <alias>nebagatelyzovať</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>nebagatelizujme</grapheme>
+    <alias>nebagatelyzujme</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Alcaraz</grapheme>
+    <alias>Alkaraz</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Djoković</grapheme>
+    <alias>džokovič</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Świąteková</grapheme>
+    <alias>Švjonteková</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>.sk</grapheme>
+    <alias>ezká</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>OECD</grapheme>
+    <alias>óísídý</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>viachodinový</grapheme>
+    <alias>viatshodinový</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Rammstein</grapheme>
+    <alias>ra mštajn</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>mokradí</grapheme>
+    <alias>mokra ďí</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>déjà vu</grapheme>
+    <alias>deža vi</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>bombicom</grapheme>
+    <alias>bombitsom</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>desaťtisíc</grapheme>
+    <alias>desať tisíc</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>dvadsaťtisíc</grapheme>
+    <alias>dvadsať tisíc</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>tridsaťtisíc</grapheme>
+    <alias>tridsať tisíc</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>štyridsaťtisíc</grapheme>
+    <alias>štyridsať tisíc</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>päťdesiattisíc</grapheme>
+    <alias>päťdesiat tisíc</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>šesťdesiattisíc</grapheme>
+    <alias>šesťdesiat tisíc</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>sedemdesiattisíc</grapheme>
+    <alias>sedemdesiat tisíc</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>osemdesiattisíc</grapheme>
+    <alias>osemdesiat tisíc</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>deväťdesiattisíc</grapheme>
+    <alias>deväťdesiat tisíc</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>tisícami</grapheme>
+    <alias>tisítsami</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>desaťtisícami</grapheme>
+    <alias>desať tisítsami</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>státisícami</grapheme>
+    <alias>stá tisítsami</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>dvadsaťtisícami</grapheme>
+    <alias>dvadsať tisítsami</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>tridsaťtisícami</grapheme>
+    <alias>tridsať tisítsami</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>štyridsaťtisícami</grapheme>
+    <alias>štyridsať tisítsami</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>päťdesiattisícami</grapheme>
+    <alias>päťdesiat tisítsami</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>šesťdesiattisícami</grapheme>
+    <alias>šesťdesiat tisítsami</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>sedemdesiattisícami</grapheme>
+    <alias>sedemdesiat tisítsami</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>osemdesiattisícami</grapheme>
+    <alias>osemdesiat tisítsami</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>deväťdesiattisícami</grapheme>
+    <alias>deväťdesiat tisítsami</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Alla Pugačeva</grapheme>
+    <alias>alla pug ačeva</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Alla Pugačovová</grapheme>
+    <alias>alla pug ačovová</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Alla Pugačevová</grapheme>
+    <alias>alla pug ačevová</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ally Pugačevy</grapheme>
+    <alias>ali pug ačevy</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ally Pugačovovej</grapheme>
+    <alias>ali pug ačovovej</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ally Pugačevovej</grapheme>
+    <alias>ali pug ačevovej</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>outsiderovi</grapheme>
+    <alias>autsiderovi</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>outsiderom</grapheme>
+    <alias>autsiderom</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>outsiderov</grapheme>
+    <alias>autsiderov</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>nebil</grapheme>
+    <alias>ňebil</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>nebila</grapheme>
+    <alias>ňebila</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>nebilo</grapheme>
+    <alias>ňebilo</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>LGBTI</grapheme>
+    <alias>elgébétéí</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>LGBTIQ</grapheme>
+    <alias>elgébétéíkvé</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Rasputin</grapheme>
+    <alias>Raspuťin</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Rasputina</grapheme>
+    <alias>Raspuťina</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Rasputinovi</grapheme>
+    <alias>Raspuťinovi</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Rasputinom</grapheme>
+    <alias>Raspuťinom</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>mail</grapheme>
+    <alias>mejl</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>mailu</grapheme>
+    <alias>mejlu</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>maili</grapheme>
+    <alias>mejli</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>maile</grapheme>
+    <alias>mejle</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>mailom</grapheme>
+    <alias>mejlom</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>maily</grapheme>
+    <alias>mejly</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>mailov</grapheme>
+    <alias>mejlov</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>mailoch</grapheme>
+    <alias>mejloch</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>mailami</grapheme>
+    <alias>mejlami</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>mailová</grapheme>
+    <alias>mejlová</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>mailovej</grapheme>
+    <alias>mejlovej</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>mailovú</grapheme>
+    <alias>mejlovú</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>mailovou</grapheme>
+    <alias>mejlovou</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>mailové</grapheme>
+    <alias>mejlové</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>mailových</grapheme>
+    <alias>mejlových</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>mailovým</grapheme>
+    <alias>mejlovým</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>mailovými</grapheme>
+    <alias>mejlovými</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>KGB</grapheme>
+    <alias>kágébé</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>car bomba</grapheme>
+    <alias>cár bomba</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>car puška</grapheme>
+    <alias>cár puška</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>e-mail</grapheme>
+    <alias>imejl</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>e-maili</grapheme>
+    <alias>imejli</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>e-maile</grapheme>
+    <alias>imejle</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>e-mailoch</grapheme>
+    <alias>imejloch</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>e-maily</grapheme>
+    <alias>imejly</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>e-mailom</grapheme>
+    <alias>imejlom</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>e-mailami</grapheme>
+    <alias>imejlami</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>e-mailu</grapheme>
+    <alias>imejlu</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>e-mailov</grapheme>
+    <alias>imejlov</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>e-mailová</grapheme>
+    <alias>imejlová</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>e-mailovej</grapheme>
+    <alias>imejlovej</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>e-mailovú</grapheme>
+    <alias>imejlovú</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>e-mailovou</grapheme>
+    <alias>imejlovou</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>e-mailové</grapheme>
+    <alias>imejlové</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>e-mailových</grapheme>
+    <alias>imejlových</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>e-mailovými</grapheme>
+    <alias>imejlovými</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>e-mailovým</grapheme>
+    <alias>imejlovým</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>SaS</grapheme>
+    <alias>esáes</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>krajiny EÚ</grapheme>
+    <alias>krajiny európskej únie</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>krajín EÚ</grapheme>
+    <alias>krajín európskej únie</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>krajinám EÚ</grapheme>
+    <alias>krajinám európskej únie</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>krajinách EÚ</grapheme>
+    <alias>krajinách európskej únie</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>krajinami EÚ</grapheme>
+    <alias>krajinami európskej únie</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>odídenec</grapheme>
+    <alias>odýďenec</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>odídenca</grapheme>
+    <alias>odýďenca</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>odídencovi</grapheme>
+    <alias>odýďencovi</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>odídenci</grapheme>
+    <alias>odýďenci</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>odídencov</grapheme>
+    <alias>odýďencov</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>odídencom</grapheme>
+    <alias>odýďencom</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>odídencami</grapheme>
+    <alias>odýďencami</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>baby boom</grapheme>
+    <alias>bejby búm</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>baby boomu</grapheme>
+    <alias>bejby búmu</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>baby boomom</grapheme>
+    <alias>bejby boomom</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>baby-boom</grapheme>
+    <alias>bejby búm</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>baby-boomu</grapheme>
+    <alias>bejby búmu</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>baby-boomom</grapheme>
+    <alias>bejby búmom</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>baby boomer</grapheme>
+    <alias>bejby búmer</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>baby boomera</grapheme>
+    <alias>bejby búmra</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>baby boomerovi</grapheme>
+    <alias>bejby búmrovi</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>baby boomerom</grapheme>
+    <alias>bejby búmrom</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>baby boomeri</grapheme>
+    <alias>bejby búmeri</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>baby boomerov</grapheme>
+    <alias>bejby búmrov</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>baby boomeroch</grapheme>
+    <alias>bejby búmroch</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>baby boomermi</grapheme>
+    <alias>bejby búmermi</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>noir</grapheme>
+    <alias>nuár</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>covid-19</grapheme>
+    <alias>kovid devätnásť</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>COVID-19</grapheme>
+    <alias>kovid devätnásť</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>OceanGate</grapheme>
+    <alias>oušngejt</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>SIS</grapheme>
+    <alias>esíes</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>I. M.</grapheme>
+    <alias>íem</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Leonid</grapheme>
+    <alias>le onid</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>prchkejší</grapheme>
+    <alias>prchkej šíí</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Churchill</grapheme>
+    <alias>čerčil</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Churchilla</grapheme>
+    <alias>čerčila</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Churchillovi</grapheme>
+    <alias>čerčilovi</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Churchillom</grapheme>
+    <alias>čerčilom</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Churchillov</grapheme>
+    <alias>čerčilov</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Churchillova</grapheme>
+    <alias>čerčilova</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Churchillovo</grapheme>
+    <alias>čerčilovo</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Churchillove</grapheme>
+    <alias>čerčilove</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Microsoft Azure</grapheme>
+    <alias>microsoft az júr</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Martin M. Šimečka</grapheme>
+    <alias>Martin Milan Šimečka</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Benedikovičová</grapheme>
+    <alias>Benedykovičová</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Benedikovičovej</grapheme>
+    <alias>Benedykovičovej</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>High 5ive</grapheme>
+    <alias>High Five</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>podcastoch</grapheme>
+    <alias>podkastoch</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>dennikn.sk</grapheme>
+    <alias>denníken.ezká</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Euractiv</grapheme>
+    <alias>Euraktiv</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>nejde</grapheme>
+    <alias>ňejde</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>LGBTI+</grapheme>
+    <alias>elgébétéíplus</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>J&amp;T</grapheme>
+    <alias>džejentý</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Washington Post</grapheme>
+    <alias>wošington powst</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Gyárfášová</grapheme>
+    <alias>Ďarfášová</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Deník N</grapheme>
+    <alias>dheňýk n</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>advent</grapheme>
+    <alias>aadvent</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Horvátha</grapheme>
+    <alias>Horváta</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Horváth</grapheme>
+    <alias>Horvát</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>nominanti</grapheme>
+    <alias>nominanťi</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>emailovej</grapheme>
+    <alias>ímejlovej</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>covid</grapheme>
+    <alias>kovid</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>covidový</grapheme>
+    <alias>kovidový</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>covidová</grapheme>
+    <alias>kovidová</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>covidu</grapheme>
+    <alias>kovidu</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>covide</grapheme>
+    <alias>koviďe</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>tesco</grapheme>
+    <alias>tesco</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>tesca</grapheme>
+    <alias>theska</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>tescu</grapheme>
+    <alias>thesku</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>nevera</grapheme>
+    <alias>ňevera</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>nevere</grapheme>
+    <alias>ňevere</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Saint Germain</grapheme>
+    <alias>sent žermén</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Coca Cola</grapheme>
+    <alias>koka kola</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Coca Coly</grapheme>
+    <alias>koka koly</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>panická</grapheme>
+    <alias>panycká</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>panický</grapheme>
+    <alias>panycký</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>panické</grapheme>
+    <alias>panycké</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Svěrák</grapheme>
+    <alias>ssvjerák</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Svěráka</grapheme>
+    <alias>ssvjeráka</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>neuroveda</grapheme>
+    <alias>nneuroveda</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>flashback</grapheme>
+    <alias>flešbek</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>flashbacky</grapheme>
+    <alias>flešbeki</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>flashbacku</grapheme>
+    <alias>flešbeku</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>stream</grapheme>
+    <alias>strím</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>streamovať</grapheme>
+    <alias>strímovať</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>streamuje</grapheme>
+    <alias>strímuje</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>streamujú</grapheme>
+    <alias>strímujú</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>streamy</grapheme>
+    <alias>strími</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>mainstreamový</grapheme>
+    <alias>mejnstrímový</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Cyrano z Bergeracu</grapheme>
+    <alias>sirano z beržeraku</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Cyrana z Bergeracu</grapheme>
+    <alias>sirana z beržeraku</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Vladimír Weiss st.</grapheme>
+    <alias>vlaďimír vajs starší</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Vladimíra Weissa st.</grapheme>
+    <alias>vlaďimíra vajsa staršieho</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Mariupol</grapheme>
+    <alias>maryjupol</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Mariupola</grapheme>
+    <alias>maryjupola</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Mariupole</grapheme>
+    <alias>maryjupole</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>státisícoch</grapheme>
+    <alias>stáťisítsoch</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>státisíce</grapheme>
+    <alias>stáťisíce</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>secondhand</grapheme>
+    <alias>sekondhend</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>secondhandový</grapheme>
+    <alias>sekondhendový</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>onuca</grapheme>
+    <alias>onutsa</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Putin</grapheme>
+    <alias>puťin</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Putinova</grapheme>
+    <alias>puťinova</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Jaro</grapheme>
+    <alias>Yaro</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>pesticídy</grapheme>
+    <alias>pestitsídy</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>pesticíd</grapheme>
+    <alias>pestitsíd</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kurdi</grapheme>
+    <alias>kurďi</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Cigániková</grapheme>
+    <alias>cigáňiková</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Cigánikovej</grapheme>
+    <alias>cigáňikovej</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Cigánikovú</grapheme>
+    <alias>cigáňikovú</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Cigánikovou</grapheme>
+    <alias>cigáňikovou</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Biden</grapheme>
+    <alias>bajdn</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Bidena</grapheme>
+    <alias>bajdna</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Bidenova</grapheme>
+    <alias>bajdnova</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Washingtone</grapheme>
+    <alias>vošingtonje</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Globsec</grapheme>
+    <alias>globsek</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Globsecu</grapheme>
+    <alias>globseku</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>očistec</grapheme>
+    <alias>očisťets</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>rating</grapheme>
+    <alias>rejting</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>ratingový</grapheme>
+    <alias>rejtingový</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>ratingu</grapheme>
+    <alias>rejtingu</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>ratingy</grapheme>
+    <alias>rejtyngy</alias>
+  </lexeme>
+</lexicon>
